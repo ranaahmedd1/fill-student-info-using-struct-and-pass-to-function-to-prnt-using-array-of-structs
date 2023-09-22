@@ -51,7 +51,7 @@ stud[4].degree=95;
 stud[4].section=1;
 
 
-print(stud);
+printf(stud);
 
 
 
